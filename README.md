@@ -4,7 +4,7 @@ Code accompanying:
 
 > **Handling missing multivariate outcomes in nonparametric treatment
 > comparisons.**
-> Kanini L., Geroldinger M., Lauth W., Thiébaut R., Zimmermann G. (2026).
+> Kanini L., Geroldinger M., Geert Molenberghs., Johan Verbeke., Olivier Thas., Zimmermann G. (2026).
 > *Manuscript under review.*
 
 The study compares non-prioritized GPC (GPC-NP), prioritized GPC
